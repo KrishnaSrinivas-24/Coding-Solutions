@@ -1,4 +1,4 @@
-# Coding-Solutions Repositoru
+# Coding-Solutions Repository
 
 A collection of my solutions for coding problems in various categories such as Arrays, Strings, Graphs, and more.
 
